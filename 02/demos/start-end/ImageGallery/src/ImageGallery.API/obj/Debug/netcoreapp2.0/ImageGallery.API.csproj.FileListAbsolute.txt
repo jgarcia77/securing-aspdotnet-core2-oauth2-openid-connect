@@ -1,0 +1,14 @@
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+C:\Git\Github\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
