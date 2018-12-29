@@ -1,0 +1,73 @@
+Central Identity Provider
+-	Identity Provider (IDP)
+	-	authenticates the user
+	-	safely provide proof of identity to an app
+	-	homegrown endpoints are replaced by OAuth2 standards
+
+-	OpenID Connect
+	-	extends OAuth2 protocol
+	-	client app requests identity token (next to an access token)
+	-	identity token is used to sign into the client app
+	-	How it works
+		-	client app (relying party) relies on IDP
+		-	authentication request is sent to IDP
+		-	IDP returns identity token
+		-	client app validates token
+	-	Public and Confidential Clients
+		-	Confidential Clients
+			-	capable of maintaining credentials
+			-	live on the server
+			-	e.g server-side web apps
+		-	Public Clients
+			-	incapable of maintaining credentials
+			-	live on the device
+			-	e.g. Javascript app, mobile apps
+	
+	-	OpenID Connect Flows and Endpoints
+		-	Flows
+			-	the flow determines how the code and/or token(s)
+				are returned to the client
+			-	depending on the app type, requirments,
+				we must use a different flow
+		-	Endpoints
+			-	authorization endpoint (IDP level)
+				-	used by client app to obtain authentication/authorization,
+					via redirection
+				-	TLS (SSL) is a requirement
+			-	redirection endpoint (client level)
+				-	client app redirects to IDP
+				-	IDP redirects back to client app
+			-	token endpoint (IDP level)
+				-	usbed by client app to request tokens w/o redirection
+					from IDP
+		-	OpenID Connect Flows
+			-	authorization code
+				-	tokens from token endpoint
+				-	confidential clients
+				-	long-lived access
+			-	implicit
+				-	tokens from authorization endpoint
+				-	public clients
+				-	no long-lived access
+			-	hybrid
+				-	tokens from authorization endpoint
+					& token endpoint
+				-	confidential clients
+				-	long-lived access
+	-	Introducing IdentityServer4
+		-	OpenID connect & OAuth2 framework for ASP.Net Core
+		-	officially certified by the OpenID Foundation
+			& part of the .NET foundation
+		-	open source
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
